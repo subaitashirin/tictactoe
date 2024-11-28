@@ -1,1 +1,2 @@
 # tictactoe
+Author- Subaita Shirin
